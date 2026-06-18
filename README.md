@@ -2,7 +2,7 @@
 This project implements a Fake News Detection system using an Attention-Augmented Residual Convolutional Neural Network (FNAARCNN). The model classifies news articles as Fake or Real using TF-IDF feature extraction and deep learning techniques.
 
 
-TiTle 
+##TITIE 
 # FNAARCNN: Fake News Detection Using an Attention-Augmented Residual Convolutional Neural Network
 ## Dataset
 Dataset Source: Kaggle Fake News Detection Dataset
